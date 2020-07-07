@@ -23,7 +23,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>266</width>
+          <width>341</width>
           <header>multi_choice_codes_80 contains</header>
           <constraintValueType>1</constraintValueType>
           <factField>multi_choice_codes_80</factField>
